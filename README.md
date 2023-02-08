@@ -8,4 +8,5 @@ We use the open-source IoT platform(s) “Hyperledger Explorer” or “ThingsBo
 - MQTT Protocol (IoT network connectivity)
 - Hyperledger Explorer
 
-## Features
+## Activity Diagram
+<p align="center"><img src="docs/Activity_diagram1"></p>
