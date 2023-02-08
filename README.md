@@ -1,13 +1,5 @@
-# file-storing-on-blockchain-network
+# This project deals with the emerging problem of Data Securing of IoT Devices. 
+# This Project aims to design and develop a secure architectural environment that will provide automation with a security layer of Blockchain technology, that introduces high Security and Privacy.
+# The Overall project is based upon the IoT automation System working under the Private Blockchain Network and can then be virtually exccessed. 
+# We use the open-source IoT platform(s) “Hyperledger Explorer” or “ThingsBoard” for real-time data visualization. And use the Hyperledger Fabric blockchain network for providing a private blockchain network.
 
-This project will be broken down into two phases.
-1. Creating the Dapp for file storing on IPFS.
-2. Creating a Client Side app that will automatically provide the file (image/video).
-
-So, for this project we will use Ethereum Network. And we will store the file in a Distributed File System called IPFS.
-
-Working of the Project-
-
-In this file system, while storing our file we get a Hash Key that works as a pointer to that file. 
-We use that Hash code and put it on the Ethereum Smart Contract and Store it onto the network.
-As it will provide a reference to the original file that is present on the distributed file system (IPFS).
