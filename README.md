@@ -10,3 +10,9 @@ We use the open-source IoT platform(s) “Hyperledger Explorer” or “ThingsBo
 
 ## Activity Diagram
 <p align="center"><img src="docs/Activity_diagram1.jpeg"></p>
+
+### Prerequisites
+
+- MQTT Broker running on Raspberry Pi
+- Hyperledger Fabric on main Server running
+- [Docker](https://docs.docker.com/install/)
