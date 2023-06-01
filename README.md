@@ -9,7 +9,7 @@ We use the open-source IoT platform(s) “Hyperledger Explorer” or “ThingsBo
 - Hyperledger Explorer
 
 ## Activity Diagram
-<p align="center"><img src="docs/Activity_diagram1.jpeg"></p>
+<p align="center"><img src="docs/Final_Year_Project_System_Design.png"></p>
 
 ### Prerequisites
 
