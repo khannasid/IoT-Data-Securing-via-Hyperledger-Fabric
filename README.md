@@ -16,3 +16,12 @@ We use the open-source IoT platform(s) “Hyperledger Explorer” or “ThingsBo
 - MQTT Broker running on Raspberry Pi
 - Hyperledger Fabric on main Server running
 - [Docker](https://docs.docker.com/install/)
+
+## Inspiration & Help
+This projec is inspired from 
+- [IBM Hyperledger-Fabric-for-Trusted-IoT](https://github.com/IBM/Hyperledger-Fabric-for-Trusted-IoT)
+- [Pavan Adhav](https://github.com/adhavpavan/BasicNetwork-2.0)
+- [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
+- [Advance IP finder](https://www.advanced-ip-scanner.com/)
+- [Putty software](https://www.putty.org/)
+- [HiveMQ](https://www.hivemq.com/)
